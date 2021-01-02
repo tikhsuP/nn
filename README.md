@@ -1,8 +1,8 @@
-# Type-N-Speak
+# Text to Speech
 
 > Type and speak app with speech synthesis using the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 
-[App Demo](https://bradtraversy.github.io/type-n-speak)
+[App Demo](https://tikhsuP.github.io/)
 
 #### Technologies Used:
 <a href="https://www.w3.org/html/" target="_blank">
